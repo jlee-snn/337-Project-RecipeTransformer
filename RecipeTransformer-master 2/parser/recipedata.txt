@@ -1,0 +1,251 @@
+{
+    "Info": {
+        "rating": "4.709804", 
+        "recipe": "Jambalaya"
+    }, 
+    "nutrition": {
+        "calories": "465 kcal"
+    }, 
+    "steps": [
+        "\nHeat 1 tablespoon of peanut oil in a large heavy Dutch oven over medium heat", 
+        " Season the sausage and chicken pieces with Cajun seasoning", 
+        " Saute sausage until browned", 
+        " Remove with slotted spoon, and set aside", 
+        " Add 1 tablespoon peanut oil, and saute chicken pieces until lightly browned on all sides", 
+        " Remove with a slotted spoon, and set aside", 
+        "\nIn the same pot, saute onion, bell pepper, celery and garlic until tender", 
+        " Stir in crushed tomatoes, and season with red pepper, black pepper, salt, hot pepper sauce, Worcestershire sauce and file powder", 
+        " Stir in chicken and sausage", 
+        " Cook for 10 minutes, stirring occasionally", 
+        "\nStir in the rice and chicken broth", 
+        " Bring to a boil, reduce heat, and simmer for 20 to 25 minutes, or until liquid is absorbed", 
+        "\n"
+    ], 
+    "ingredients": [
+        {
+            "name": "peanut oil", 
+            "preparation": " divided", 
+            "descriptor": [
+                [
+                    "peanut", 
+                    "oil"
+                ]
+            ], 
+            "measurement": "tablespoons", 
+            "prep-description": "none", 
+            "quantity": 2.0
+        }, 
+        {
+            "name": "Cajun seasoning", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "Cajun", 
+                    "seasoning"
+                ]
+            ], 
+            "measurement": "tablespoon", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "andouille sausage", 
+            "preparation": " sliced into rounds", 
+            "descriptor": [
+                [
+                    "andouille", 
+                    "sausage"
+                ]
+            ], 
+            "measurement": " ounces", 
+            "prep-description": "none", 
+            "quantity": 10.0
+        }, 
+        {
+            "name": "boneless skinless chicken breasts", 
+            "preparation": " cut into 1 inch pieces", 
+            "descriptor": [
+                [
+                    "boneless", 
+                    "skinless", 
+                    "chicken", 
+                    "breasts"
+                ]
+            ], 
+            "measurement": "pound", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "onion", 
+            "preparation": " diced", 
+            "descriptor": [
+                [
+                    "onion"
+                ]
+            ], 
+            "measurement": "none", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "green bell pepper", 
+            "preparation": " diced", 
+            "descriptor": [
+                [
+                    "green", 
+                    "bell", 
+                    "pepper"
+                ]
+            ], 
+            "measurement": "small", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "celery", 
+            "preparation": " diced", 
+            "descriptor": [
+                [
+                    "celery"
+                ]
+            ], 
+            "measurement": "stalks", 
+            "prep-description": "none", 
+            "quantity": 2.0
+        }, 
+        {
+            "name": "garlic", 
+            "preparation": " minced", 
+            "descriptor": [
+                [
+                    "garlic"
+                ]
+            ], 
+            "measurement": "cloves", 
+            "prep-description": "none", 
+            "quantity": 3.0
+        }, 
+        {
+            "name": "crushed Italian tomatoes", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "crushed", 
+                    "Italian", 
+                    "tomatoes"
+                ]
+            ], 
+            "measurement": "(16 ounce) can", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "red pepper flakes", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "red", 
+                    "pepper", 
+                    "flakes"
+                ]
+            ], 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 0.5
+        }, 
+        {
+            "name": "ground black pepper", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "ground", 
+                    "black", 
+                    "pepper"
+                ]
+            ], 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 0.5
+        }, 
+        {
+            "name": "salt", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "salt"
+                ]
+            ], 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "hot pepper sauce", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "hot", 
+                    "pepper", 
+                    "sauce"
+                ]
+            ], 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 0.5
+        }, 
+        {
+            "name": "Worcestershire sauce", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "Worcestershire", 
+                    "sauce"
+                ]
+            ], 
+            "measurement": "teaspoons", 
+            "prep-description": "none", 
+            "quantity": 2.0
+        }, 
+        {
+            "name": "file powder", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "file", 
+                    "powder"
+                ]
+            ], 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "uncooked white rice", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "uncooked", 
+                    "white", 
+                    "rice"
+                ]
+            ], 
+            "measurement": "4 cups", 
+            "prep-description": "none", 
+            "quantity": 1.25
+        }, 
+        {
+            "name": "chicken broth", 
+            "preparation": "none", 
+            "descriptor": [
+                [
+                    "chicken", 
+                    "broth"
+                ]
+            ], 
+            "measurement": "2 cups", 
+            "prep-description": "none", 
+            "quantity": 2.5
+        }
+    ]
+}

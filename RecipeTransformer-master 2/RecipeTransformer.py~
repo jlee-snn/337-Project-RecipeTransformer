@@ -1,0 +1,13 @@
+import json
+from bs4 import BeautifulSoup, NavigableString
+import urllib2,sys,re
+
+#Example url for lasanga
+url_example = 'http://allrecipes.com/recipe/worlds-best-lasagna/'
+
+def fetchUR(url):
+    html = urllib2.urlopen(url)
+    soup = BeautifulSoupe(html)
+
+    return
+

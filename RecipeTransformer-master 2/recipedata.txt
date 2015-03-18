@@ -1,0 +1,201 @@
+{
+    "Info": {
+        "rating": "4.782239", 
+        "recipe": "World's Best Lasagna"
+    }, 
+    "nutrition": {
+        "calories": "448 kcal"
+    }, 
+    "steps": [
+        "\nIn a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned", 
+        " Stir in crushed tomatoes, tomato paste, tomato sauce, and water", 
+        " Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley", 
+        " Simmer, covered, for about 1 1/2 hours, stirring occasionally", 
+        "\nBring a large pot of lightly salted water to a boil", 
+        " Cook lasagna noodles in boiling water for 8 to 10 minutes", 
+        " Drain noodles, and rinse with cold water", 
+        " In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt", 
+        "\nPreheat oven to 375 degrees F (190 degrees C)", 
+        "\nTo assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish", 
+        " Arrange 6 noodles lengthwise over meat sauce", 
+        " Spread with one half of the ricotta cheese mixture", 
+        " Top with a third of mozzarella cheese slices", 
+        " Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese", 
+        " Repeat layers, and top with remaining mozzarella and Parmesan cheese", 
+        " Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese", 
+        "\nBake in preheated oven for 25 minutes", 
+        " Remove foil, and bake an additional 25 minutes", 
+        " Cool for 15 minutes before serving", 
+        "\n"
+    ], 
+    "ingredients": [
+        {
+            "name": "sweet Italian sausage", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "pound", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "lean ground beef", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "pound", 
+            "prep-description": "none", 
+            "quantity": 0.75
+        }, 
+        {
+            "name": "minced onion", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "cup", 
+            "prep-description": "none", 
+            "quantity": 0.5
+        }, 
+        {
+            "name": "garlic", 
+            "preparation": " crushed", 
+            "descriptor": "none", 
+            "measurement": "cloves", 
+            "prep-description": "none", 
+            "quantity": 2.0
+        }, 
+        {
+            "name": "crushed tomatoes", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "(28 ounce) can", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "tomato paste", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "(6 ounce) cans", 
+            "prep-description": "none", 
+            "quantity": 2.0
+        }, 
+        {
+            "name": "canned tomato sauce", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "(6.5 ounce) cans", 
+            "prep-description": "none", 
+            "quantity": 2.0
+        }, 
+        {
+            "name": "water", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "cup", 
+            "prep-description": "none", 
+            "quantity": 0.5
+        }, 
+        {
+            "name": "white sugar", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "tablespoons", 
+            "prep-description": "none", 
+            "quantity": 2.0
+        }, 
+        {
+            "name": "dried basil leaves", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "2 teaspoons", 
+            "prep-description": "none", 
+            "quantity": 1.5
+        }, 
+        {
+            "name": "fennel seeds", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 0.5
+        }, 
+        {
+            "name": "Italian seasoning", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "salt", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "tablespoon", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "ground black pepper", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 0.25
+        }, 
+        {
+            "name": "chopped fresh parsley", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "tablespoons", 
+            "prep-description": "none", 
+            "quantity": 4.0
+        }, 
+        {
+            "name": "lasagna noodles", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "", 
+            "prep-description": "none", 
+            "quantity": 12.0
+        }, 
+        {
+            "name": "ricotta cheese", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": " ounces", 
+            "prep-description": "none", 
+            "quantity": 16.0
+        }, 
+        {
+            "name": "egg", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "none", 
+            "prep-description": "none", 
+            "quantity": 1.0
+        }, 
+        {
+            "name": "salt", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "teaspoon", 
+            "prep-description": "none", 
+            "quantity": 0.5
+        }, 
+        {
+            "name": "mozzarella cheese", 
+            "preparation": " sliced", 
+            "descriptor": "none", 
+            "measurement": "pound", 
+            "prep-description": "none", 
+            "quantity": 0.75
+        }, 
+        {
+            "name": "grated Parmesan cheese", 
+            "preparation": "none", 
+            "descriptor": "none", 
+            "measurement": "cup", 
+            "prep-description": "none", 
+            "quantity": 0.75
+        }
+    ]
+}
