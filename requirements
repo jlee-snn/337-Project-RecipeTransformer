@@ -59,5 +59,24 @@ Instructions:
 	Once finished with RecipeParse, ensure that the last line is commented out “StartParse()” when finished to ensure compatibility with 		transform.py
 
 
+
+
+
+Additionally RecipeParse.py and transform.py is able to recognize and parse the following
+for our groups data representation:
+• Ingredients
+• Ingredient name
+• Quantity
+• Measurement (cup, teaspoon, pinch, etc.)
+• (optional) Descriptor (e.g. fresh, extra-virgin)
+• (optional) Preparation (e.g. chopped)
+• Tools – pans, graters, whisks, etc.
+• Methods
+• Primary cooking method, if one exists (e.g. sauté, broil, boil, poach, freeze etc.)
+• (optional) Other cooking methods used (e.g. chop, grate, stir, shake, mince, crush, squeeze, etc.)
+• (optional) Steps – parse the directions into a series of steps that each consist of ingredients, tools, methods, and times
+
+
+
 		
 		
