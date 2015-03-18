@@ -1,0 +1,63 @@
+Using libraries: 				How To Install:
+	json 
+	math
+	sys
+	from bs4 import BeautifulSoup           (pip install beautifulsoup4)
+	urllib2
+	from textblob import TextBlob		(pip install -U textblob)
+						(python -m textblob.download_corpora)
+	codecs
+	from fractions import Fraction
+
+
+Installed libraries using pip.
+
+Instructions:
+	To run a transformation:
+		Open transform.py in a text editor and make sure line 491: "main()" is NOT commented out.
+		
+		python transform.py "allrecipes.com url" arg2 arg3 arg4
+			arg2:
+				1: To vegetarian transformation
+				2: To pescetarian transformation
+			arg3:
+				1: To asian style transformation
+				2: To southern style transformation
+			arg4:
+				1: To low fat transformation
+				2: To low carb transformation
+		Example: 
+			python transform.py "http://allrecipes.com/recipe/italian-meat-loaf-2/" 1 0 0
+			
+			This will transform the recipe at the specified url to a vegetarian recipe.
+	To run the autograder:
+		Open transform.py in a text editor and comment out line 491 "main()"
+		
+		python autograder.py
+
+	To run the a recipe scrape and parse independent of transformations. 
+	1) Terminal Friendly Instructions
+		a) Change working directory to RecipeTransformer-master 2/parser in project folder in terminal. 
+		b) Uncomment StartParse().  This is the last line of RecipeParse.py  (By default this is commented out at line 443).
+		c) Run following:
+			python RecipeParse.py
+		d) Program will ask for url input from user. Paste or type ALLRECIPE URL. (Must be valid URL for all recipe or the code will break). 
+		e) Open recipedata.txt in the parser folder to obtain url scrapped data. 
+	2) Module method
+		a) Uncomment StartParse() located at line 443.  
+		a) load folder or RecipeParse.py as module. 
+		b) Run the following functions
+			RecipeParse(url)
+
+			or 
+
+			RecipeParseToJson(url, “recipedata.txt”)
+			
+			Arg url can be any valid ALLRECIPE url.  
+
+			Example:  	RecipeParse(‘allrecipe.com’)
+	Once finished with RecipeParse, ensure that the last line is commented out “StartParse()” when finished to ensure compatibility with 		transform.py
+
+
+		
+		
